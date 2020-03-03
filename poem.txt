@@ -4,5 +4,5 @@ orange,
 yellow, 
 green, 
 blue, 
-indigo, 
+purple, 
 violet
